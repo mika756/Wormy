@@ -1,3 +1,14 @@
+## Setup
+
+```bash
+npm install
+```
+
+Setup `.env`:
+```bash
+cp .env.example .env
+```
+
 ## Usage
 
 VAULT_CONTRACT_ADDRESS=0xb53dd46e550ebbf7bb8abf131f6c51ef54bf787e
