@@ -1,0 +1,15 @@
+{
+  "name": "wormybot",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "rill",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0"
+  }
+}
